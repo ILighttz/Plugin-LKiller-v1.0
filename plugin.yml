@@ -1,0 +1,7 @@
+main: net.lighttz.plugin.Main
+name: LKiller
+version: 1.0.0
+author: ILighttz#0002
+commands:
+  killer:
+    description: entra ae
